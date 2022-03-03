@@ -17,3 +17,8 @@ Live demo: https://gagniuc.github.io/Waveform-mixing-with-Spectral-Forecast-in-J
 ![screenshot](https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/blob/main/img/sf(5).gif?raw=true)
 
 ![screenshot](https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/blob/main/img/sf(6).gif?raw=true)
+
+
+# References
+
+<i>Paul A. Gagniuc. Algorithms in Bioinformatics: Theory and Implementation. John Wiley & Sons, Hoboken, NJ, USA, 2021, ISBN: 9781119697961.</i>
