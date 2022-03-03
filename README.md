@@ -4,7 +4,7 @@
 One can look at this project as an advertisement for my mathematical model, called the Spectral Forecast. The Spectral Forecast equation is a part of the Spectral Forecast model.
 
 Here's how to use the Spectral Forecast equation to combine two waveforms of signal.
-The two HTML files (<kbd>index.html</kbd> and <kbd>waveform mixing with Spectral Forecast.html</kbd>) have the same content. The presence of the <kbd>index.html</kbd> file is required for the [live part](https://gagniuc.github.io/Waveform-mixing-with-Spectral-Forecast-in-JS/) (Github specific).
+The two HTML files (<kbd>index.html</kbd> and <kbd>waveform mixing with Spectral Forecast.html</kbd>) have the same content. The presence of the <kbd>index.html</kbd> file is required for the [live demo](https://gagniuc.github.io/Waveform-mixing-with-Spectral-Forecast-in-JS/) (Github specific).
 
 Live demo: https://gagniuc.github.io/Waveform-mixing-with-Spectral-Forecast-in-JS/
 
