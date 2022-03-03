@@ -4,9 +4,6 @@ The two HTML files (<kbd>index.html</kbd> and <kbd>waveform mixing with Spectral
 
 Live demo: https://gagniuc.github.io/Waveform-mixing-with-Spectral-Forecast-in-JS/
 
-![screenshot](https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/blob/main/img/waveform.png?raw=true)
-
-
 ![screenshot](https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/blob/main/img/sf(0).gif?raw=true)
 
 ![screenshot](https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/blob/main/img/sf(1).gif?raw=true)
@@ -18,3 +15,5 @@ Live demo: https://gagniuc.github.io/Waveform-mixing-with-Spectral-Forecast-in-J
 ![screenshot](https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/blob/main/img/sf(4).gif?raw=true)
 
 ![screenshot](https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/blob/main/img/sf(5).gif?raw=true)
+
+![screenshot](https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/blob/main/img/sf(6).gif?raw=true)
