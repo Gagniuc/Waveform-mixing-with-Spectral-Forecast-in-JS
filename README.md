@@ -4,7 +4,7 @@ This Javascript project uses my own mathematical model published in the journal 
 
 ![screenshot](https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/blob/main/img/spectral%20forecast%20signals.png?raw=true)
 
-Live demo: https://gagniuc.github.io/Waveform-mixing-with-Spectral-Forecast-in-JS/
+**Live demo**: https://gagniuc.github.io/Waveform-mixing-with-Spectral-Forecast-in-JS/
 
 ![screenshot](https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/blob/main/img/sf(0).gif?raw=true)
 
